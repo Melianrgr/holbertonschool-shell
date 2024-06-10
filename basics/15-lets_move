@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -t u/tmp/u 
+mv u/tmp/u 
