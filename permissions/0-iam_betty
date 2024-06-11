@@ -1,2 +1,2 @@
 #!/bin/bash
-su /etc/passwd | grep betty
+echo /etc/passwd | grep betty
