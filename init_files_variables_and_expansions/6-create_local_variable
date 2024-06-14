@@ -1,3 +1,2 @@
 #!/bin/bash
-BEST=School && set | grep BEST | grep -v BASH_EXECUTION_STRING
-su student_jail -c
+BEST=School && set | grep BEST | grep -v BASH_EXECUTION_STRING su student_jail -c
