@@ -1,2 +1,2 @@
 #!/bin/bash
-echo printenv | grep HBTN
+printenv | grep HBTN
