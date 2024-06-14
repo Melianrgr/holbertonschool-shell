@@ -1,2 +1,2 @@
 #!/bin/bash
-export BREAH=2 && export LOVE=1 && echo $(( $BREATH / $LOVE ))
+export BREAH=2 | export LOVE=1 | echo $(( $BREATH / $LOVE ))
